@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3258afb-88de-40d6-b135-9148c9874970" name="Changes" comment="2023.08.21 &#10;-">
-      <change afterPath="$PROJECT_DIR$/js/1. 함수형 프로그래밍 개요.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/2. 함수형으로 전환하기.html" afterDir="false" />
+    <list default="true" id="e3258afb-88de-40d6-b135-9148c9874970" name="Changes" comment="2023.08.21 &#10;섹션2. 함수형으로 전환하기 &#10;- 1강. 회원 목록, map, filter">
+      <change afterPath="$PROJECT_DIR$/javascript/_.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/2. 함수형으로 전환하기.html" beforeDir="false" afterPath="$PROJECT_DIR$/js/2. 함수형으로 전환하기.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
       <list>
         <option value="package.json" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692626710166</updated>
-      <workItem from="1692626712413" duration="3785000" />
+      <workItem from="1692626712413" duration="8283000" />
     </task>
     <task id="LOCAL-00001" summary="2023.08.21">
       <option name="closed" value="true" />
@@ -72,7 +73,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692628865566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2023.08.21 &#10;섹션2. 함수형으로 전환하기 &#10;- 1강. 회원 목록, map, filter">
+      <option name="closed" value="true" />
+      <created>1692630623597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692630623597</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2023.08.21 &#10;-" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.08.21 &#10;-" />
+    <MESSAGE value="2023.08.21 &#10;섹션2. 함수형으로 전환하기 &#10;- 1강. 회원 목록, map, filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.08.21 &#10;섹션2. 함수형으로 전환하기 &#10;- 1강. 회원 목록, map, filter" />
   </component>
 </project>
